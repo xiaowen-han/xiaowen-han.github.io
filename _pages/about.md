@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate in sociology at the [University of Minnesota](https://cla.umn.edu/sociology). I am also an alumni predoctoral trainee at the [Minnesota Population Center](https://pop.umn.edu/), holding a Ph.D. minor degree in Population Studies. My research interests are broadly in the areas of social stratification and mobility, sociology of work, life course studies, social psychology, and medical sociology. 
+I'm a Ph.D. Candidate in Sociology at the [University of Minnesota](https://cla.umn.edu/sociology). I am also an alumni predoctoral trainee at the [Minnesota Population Center](https://pop.umn.edu/), holding a Ph.D. minor degree in Population Studies. My research interests are broadly in the areas of social stratification and mobility, sociology of work, life course studies, social psychology, and medical sociology. 
 
 In my dissertation, I study the life course cumulative patterns and health consequences of agentic rewards from work, i.e., the highly-valued non-monetary aspects of a job that are central to the empowerment and agentic development of individual workers, such as autonomy and control at work, the sense of accomplishment, and opportunities for advancement. 
 
