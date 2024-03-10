@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* Ph.D. Candidate in Sociology, University of Minnesota
 * M.A. in Sociology, University of Minnesota, 2022
 * M.A. in English Language and Literature (American Studies), Beijing Foreign Studies University, 2019
 * B.A. in English Language and Literature, Xi'an Jiaotong University, 2016
