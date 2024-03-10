@@ -1,7 +1,7 @@
 ---
 title: "Cumulative Unionization and Physical Health Disparities among Older Adults"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /
 excerpt: ''
 date: 2023-10-01
 venue: 'Journal of Health and Social Behavior'
