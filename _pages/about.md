@@ -14,4 +14,4 @@ In my dissertation, I study the life course stratification of non-economic intri
 
 I have also published broadly on the life course influences of labor market experiences on health, such as the later life health implications of cumulative unionization, and the impacts of perceived discrimination at work on depressed mood. My research has appeared in the *Journal of Health and Social Behavior*, *Longitudinal and Life Course Studies*, and the *Chinese Journal of Sociology*. 
 
-You can find my [CV](/assets/Xiaowen_Han_CV_022024.pdf) here.
+Please feel free to contact me at: han00208@umn.edu. 
