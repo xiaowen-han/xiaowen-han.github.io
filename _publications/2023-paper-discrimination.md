@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Perceived discrimination in the workplace and mental health from early adulthood to midlife"
 collection: publications
 permalink: /publication/2023-paper-discrimination
 excerpt: ''
@@ -12,4 +12,4 @@ Considerable evidence demonstrates that perceiving oneself as an object of discr
 
 [Access paper here](https://bristoluniversitypressdigital.com/view/journals/llcs/14/1/article-p22.xml)
 
-Recommended citation: Han, Xiaowen, Jeylan T. Mortimer, and Tom VanHeuvelen. 2022. &quot; Perceived Discrimination in the Workplace and Mental Health from Early Adulthood to Midlife.&quot; <i>Longitudinal and Life Course Studies</i>. 14(1): 22-47.
+Han, Xiaowen, Jeylan T. Mortimer, and Tom VanHeuvelen. 2022. &quot; Perceived Discrimination in the Workplace and Mental Health from Early Adulthood to Midlife.&quot; <i>Longitudinal and Life Course Studies</i>. 14(1): 22-47.
