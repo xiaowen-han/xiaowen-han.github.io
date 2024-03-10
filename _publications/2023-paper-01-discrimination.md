@@ -1,7 +1,7 @@
 ---
 title: "Perceived discrimination in the workplace and mental health from early adulthood to midlife"
 collection: publications
-permalink: /publication/2023-paper-01-discrimination
+permalink: /publication/2023-paper-01-discrimination.md
 excerpt: ''
 date: 2023-01-01
 venue: 'Longitudinal and Life Course Studies'
