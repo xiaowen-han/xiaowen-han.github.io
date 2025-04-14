@@ -17,5 +17,5 @@ Education
 * M.A. in English Language and Literature (American Studies), Beijing Foreign Studies University, 2019
 * B.A. in English Language and Literature, Xi'an Jiaotong University, 2016
 
-You can find my [CV](/assets/XiaowenHan_CV_Dec2024.pdf) here.
+You can find my [CV](/assets/XiaowenHan_CV_Apr2025.pdf) here.
   
