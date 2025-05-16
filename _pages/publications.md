@@ -7,7 +7,7 @@ author_profile: true
 
   You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=1W3XwJYAAAAJ&hl=en).
 
-  My research interests include
+  ## My research interests include
 
 {% include base_path %}
 
